@@ -1,1 +1,1 @@
-jianshu.com##.post[style="width: 1020px;"]
+jianshu.com##.post
